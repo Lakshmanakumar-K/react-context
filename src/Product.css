@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.child1 {
+    width: 30%;
+    text-align: center;
+}
+
+.child2 {
+    width: 30%
+}
+
+.child3 {
+    width: 30%;
+}
